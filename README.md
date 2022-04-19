@@ -1,9 +1,13 @@
-## Oii eu sou a Isadora Velho, criadora de conteúdo digital!
+<div align="center"> <h2> Oii eu sou a Isadora Velho, criadora de conteúdo digital! </h2> </div>
+
 <div align="center">
-  <a href="https://github.com/isadoraavelhow">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoraavelhow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraavelhow&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://github.com/isadoraavelhow">
+  
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=isadoraavelhow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraavelhow&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="CCAA" height="150" width="300" src="https://www.ccaa.com.br/wp-content/uploads/2021/05/CCAA_destaque_1200x630.png">
 </div>
