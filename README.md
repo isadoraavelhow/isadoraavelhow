@@ -10,7 +10,7 @@
 
 <br>
 <div align="center">
-<h3 align="center"> Canais de comunicação 👥</h3>
+<h3 align="center"> Minhas redes sociais 🌗</h3>
 <a href="https://www.youtube.com/channel/UCIGbJDhciBHXcmFrdDpyufA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.instagram.com/isadoraavelhow/?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/vgmnk0v53xtcwg3zechhfs70j?si=umhWNBeCS8ik7k5Ht8QwUQ&nd=1"> <img src="https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify&logoColor=dark_green"/></a>
