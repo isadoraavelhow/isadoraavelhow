@@ -12,8 +12,8 @@
 <div align="center">
 <h3 align="center"> Minhas redes sociais 🌗</h3>
 <a href="https://www.youtube.com/channel/UCIGbJDhciBHXcmFrdDpyufA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="mailto:isadoraavelhow@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/isadoraavelhow/?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:isadoraavelhow@gmail.com"><img src="https://img.shields.io/badge/Gmail-D1364B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/vgmnk0v53xtcwg3zechhfs70j?si=umhWNBeCS8ik7k5Ht8QwUQ&nd=1"><img src="https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify&logoColor=dark_green"/></a>
 <a href="https://vm.tiktok.com/ZMLGh1frT/"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 <a href="###################"><img src ="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white"/></a>
