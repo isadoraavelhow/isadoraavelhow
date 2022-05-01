@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/isadoraavelhow/?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <br><br>
 
-<a href="https://www.twitter.com/isadorothy2?s=21$t=AMIJg9eHOgE5vyFIN3eovg"><img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://www.twitter.com/isadorothy_v?s=21$t=HIWSZwA2SiZBCLA2SBGVWw"><img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 <a href="https://discord.gg/BQJxjFtdn3"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="###################"><img src ="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <br><br>
