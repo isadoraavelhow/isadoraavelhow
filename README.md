@@ -25,4 +25,4 @@
 <a href="https://vm.tiktok.com/ZMLGh1frT/"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </div>
 
-![snake game](https://github.com/rafaballerini/isadoraavelhow/blob/output/github-contribution-grid-snake.svg)
+![snake game](https://github.com/isadoraavelhow/isadoraavelhow/blob/output/github-contribution-grid-snake.svg)
