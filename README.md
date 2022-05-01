@@ -26,5 +26,6 @@
 </div>
 
 <div align="center">
-![snake game](https://github.com/isadoraavelhow/isadoraavelhow/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  
+  ![snake game](https://github.com/isadoraavelhow/isadoraavelhow/blob/output/github-contribution-grid-snake.svg)
+</div>
